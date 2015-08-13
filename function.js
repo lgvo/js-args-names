@@ -1,4 +1,4 @@
-// one line to give the program's name and a brief description
+// js-args-names - function to get name of arguments based on AngularJS annotate function
 // Copyright © 2015 Luis Gustavo Vilela de Oliveira
 // 
 // Permission is hereby granted, free of charge, to any person obtaining
