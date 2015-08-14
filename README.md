@@ -1,6 +1,6 @@
 # Function Arguments Names
 
-Function to get Arguments Names based on AngularJS annotate.
+Get the names of a function arguments (based on AngularJS annotate).
 
 
 ## Installation

@@ -1,13 +1,14 @@
 {
   "name": "js-args-names",
   "version": "0.0.1",
-  "description": "function to get name of arguments based on AngularJS annotate function",
+  "description": "function to get the names of a function arguments based on AngularJS annotate",
   "main": "common.js",
   "repository": "lgvo/js-args-names",
   "keywords": [
       "function",
       "arguments",
-      "metadata"
+      "metadata",
+      "arguments names"
   ],
   "dependencies": {},
   "devDependencies": {
